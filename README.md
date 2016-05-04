@@ -1,5 +1,5 @@
 ##My personal website
 
-Work in progress
+Very much a work in progress
 
 http://giusepped.github.io
